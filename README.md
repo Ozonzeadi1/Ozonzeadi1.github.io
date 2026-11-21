@@ -20,8 +20,9 @@ This template is set up to showcase your best work. You can easily customize the
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project 3: Analysing International Students' Mental Health
+Does studying abroad affect mental health, and does the length of stay matter? I used SQL to test this on survey data from a Japanese international university.
+
 
 
 ## 🛠️ Skills
