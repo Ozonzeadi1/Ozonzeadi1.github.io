@@ -6,7 +6,7 @@ Welcome! This repository contains the complete template for a professional, one-
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
-- Data modeling and analysis
+- Data analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
@@ -28,9 +28,9 @@ This template is set up to showcase your best work. You can easily customize the
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, etc.
+- **Data Visualization**: Power BI, etc.
 - **Data Analysis**: SQL, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
+- **Data Modeling**: Power Query, DAX, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
 ## 💡 How to Use This Template
